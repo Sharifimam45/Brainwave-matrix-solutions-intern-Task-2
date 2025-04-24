@@ -1,5 +1,5 @@
 ****Social Media Sentiment Analysis with NLP 
-This project analyzes public sentiment on Twitter using Natural Language Processing (NLP) to understand how people feel about specific topics, products, or events over time.
+\
 
 **** Project Overview
 In the era of social media, platforms like Twitter provide a goldmine of real-time public opinion. This project extracts tweets related to a chosen topic and applies sentiment analysis techniques to:
